@@ -27,7 +27,7 @@
 
 ### Tools of trade ⚙️
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python-%23FA7343.svg?&style=for-the-badge&logo=python&logoColor=green"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%AABBEE.svg?&style=for-the-badge&logo=python&color=white"/>
 </p>
 
 ## My stats :bar_chart: 
