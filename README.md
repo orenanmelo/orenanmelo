@@ -1,6 +1,7 @@
 ## Hello World.  👋😊
 
-### I'm Renan Melo and my goal is to change the world through programming.
+### I'm Renan Melo 
+My goal is to change the world through programming.
 
 - 👩🏾‍💻 Python Developer
 - 🎲 Magic Cube Professional
