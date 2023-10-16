@@ -1,6 +1,6 @@
-![image](https://github.com/orenanmelo/orenanmelo/assets/81768526/c7d4f1d3-561a-4dc4-bca0-e90ac162ef78)## Hello World.  👋😊
+## Hello World.  👋😊
 
-### I'm Luane dos Santos, a bachelor's student in chemistry and an almost good Lol player 🥲
+### I'm Renan Melo and my goal is to change the world through programming.
 
 - 👩🏾‍💻 Python Developer
 - 🎲 Magic Cube Professional
